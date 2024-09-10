@@ -1,0 +1,14 @@
+/home/dz/dev/Lexicon/Ovning-1/bin/Debug/net8.0/Ovning-1
+/home/dz/dev/Lexicon/Ovning-1/bin/Debug/net8.0/Ovning-1.deps.json
+/home/dz/dev/Lexicon/Ovning-1/bin/Debug/net8.0/Ovning-1.runtimeconfig.json
+/home/dz/dev/Lexicon/Ovning-1/bin/Debug/net8.0/Ovning-1.dll
+/home/dz/dev/Lexicon/Ovning-1/bin/Debug/net8.0/Ovning-1.pdb
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/Ovning-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/Ovning-1.AssemblyInfoInputs.cache
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/Ovning-1.AssemblyInfo.cs
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/Ovning-1.csproj.CoreCompileInputs.cache
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/Ovning-1.dll
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/refint/Ovning-1.dll
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/Ovning-1.pdb
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/Ovning-1.genruntimeconfig.cache
+/home/dz/dev/Lexicon/Ovning-1/obj/Debug/net8.0/ref/Ovning-1.dll
